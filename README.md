@@ -6,3 +6,5 @@
 
 
 ## Gravando mudanças no repositório.
+
+### Pull
