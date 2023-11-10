@@ -8,3 +8,5 @@
 ## Gravando mudanças no repositório.
 
 ### Pull
+
+### Fetch 
